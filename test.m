@@ -1,7 +1,7 @@
 %X 
 %No 
 %fs 
-%L=10;
+%L
 
 %To assume H 
 h=complex(rand(1,L));
