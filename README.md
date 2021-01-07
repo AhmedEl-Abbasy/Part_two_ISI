@@ -1,2 +1,2 @@
-# Inter-Symbol-Interference-due-to-multi-path-channels
+# Part_two_ISI
 Digital communication 
